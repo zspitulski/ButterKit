@@ -1,0 +1,81 @@
+name: Bug report
+description: Something in ButterKit isn't working the way it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. Issues here are public, so please keep screenshots of unreleased apps, license keys and App Store Connect details out of them. For anything private, email [feedback@butterkit.app](mailto:feedback@butterkit.app) instead.
+  - type: input
+    id: version
+    attributes:
+      label: ButterKit version
+      description: Find it in ButterKit > About ButterKit.
+      placeholder: "3.0.06"
+    validations:
+      required: true
+  - type: dropdown
+    id: source
+    attributes:
+      label: Where did you get ButterKit?
+      options:
+        - Mac App Store
+        - butterkit.app download
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version and Mac
+      placeholder: "macOS 26.1, MacBook Pro M3"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Canvas and design
+        - 3D devices
+        - Text
+        - Templates
+        - Translation
+        - Export
+        - App Store Connect
+        - Linked screenshot folders
+        - Capture from Xcode
+        - MCP and AI agents
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you see, and what did you expect to see instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open a project with...
+        2. Click...
+        3. See...
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Screenshots or a sample file
+      description: Drag images here. A zipped `.butterkit` file that shows the problem helps most. Only attach what you're happy to share publicly.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched existing issues and this hasn't been reported yet.
+          required: true
+        - label: Nothing in this report is private (unreleased app content, license keys, App Store Connect details).
+          required: true

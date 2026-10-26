@@ -1,0 +1,51 @@
+name: Feature request
+description: Suggest something that would make ButterKit better.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please check open requests first. If yours is already there, add a thumbs up reaction instead of a new issue. Reactions help decide what gets built next.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe the job or the frustration, not just the button you'd add.
+      placeholder: "I ship in 12 languages and every update I have to..."
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: Your idea for how ButterKit could handle it.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Canvas and design
+        - 3D devices
+        - Text
+        - Templates
+        - Translation
+        - Export
+        - App Store Connect
+        - Linked screenshot folders
+        - Capture from Xcode
+        - MCP and AI agents
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: How do you handle it today?
+      description: Any workaround or other tool you use, if you have one.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Sketches, examples from other apps, or links.

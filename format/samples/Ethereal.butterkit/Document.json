@@ -1,0 +1,1657 @@
+{
+  "schemaVersion": 1,
+  "artboards": [
+    {
+      "sizePresetID": "app_store_iphone",
+      "imageBlocks": [],
+      "position": [
+        4.19125,
+        0,
+        0
+      ],
+      "background": {
+        "image": {
+          "fill": "fill",
+          "ref": {
+            "type": "document",
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png"
+          }
+        }
+      },
+      "sequenceIndex": 3,
+      "spanDevicesEnabled": false,
+      "perspectiveFOVDeg": 35,
+      "id": "D352A431-6073-4B1F-94F0-3CCCDCF52860",
+      "orthoHeight": 0.18917927,
+      "name": "Top",
+      "textBlocks": [
+        {
+          "alignment": "center",
+          "fontFamily": "Fraunces",
+          "horizontalAlignment": "center",
+          "sidePaddingMode": "uniform",
+          "role": "Title",
+          "isItalic": false,
+          "paddingSides": 15.626064241486066,
+          "index": 0,
+          "colorHex": "#676767FF",
+          "paddingTop": 6.287003403529525,
+          "lineSpacingMultiple": 1,
+          "isUnderlined": false,
+          "id": "B96F561E-F749-4034-B20F-5B5BB93D84BC",
+          "string": "Relaxing audio",
+          "sizePt": 60,
+          "paddingRight": 15.626064241486066,
+          "paddingLeft": 15.626064241486066,
+          "scaleToSingleLine": true,
+          "areLigaturesEnabled": true,
+          "weight": "black"
+        },
+        {
+          "alignment": "center",
+          "weight": "regular",
+          "horizontalAlignment": "center",
+          "sidePaddingMode": "individual",
+          "role": "Subtitle",
+          "isItalic": false,
+          "paddingSides": 5,
+          "index": 1,
+          "colorHex": "#777777FF",
+          "paddingTop": 13,
+          "lineSpacingMultiple": 1,
+          "isUnderlined": false,
+          "id": "533ED1AE-3A2A-4D39-946A-5A0D103BEF20",
+          "string": "Find calm anywhere",
+          "sizePt": 32.812790247678016,
+          "paddingRight": 5,
+          "paddingLeft": 5,
+          "scaleToSingleLine": true,
+          "areLigaturesEnabled": true,
+          "fontFamily": "Jost"
+        }
+      ],
+      "size": [
+        1.6125,
+        3.495
+      ],
+      "cameraProjection": "perspective",
+      "models": [
+        {
+          "instanceLabel": "iPhone 18 Pro Max",
+          "deviceStyle": "clay",
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "positionOffset": [
+            0,
+            -0.027,
+            0
+          ],
+          "screenImageFilename": "CF2E90DE-8164-4235-8A36-055C74B6354E.jpg",
+          "rotationEuler": [
+            0,
+            0,
+            0
+          ],
+          "clayColorHex": "#666666FF",
+          "sourceModelID": "12ED0949-C35A-4906-B4A2-55E24AF1D1B3",
+          "assetName": "iPhone18ProMax",
+          "id": "12ED0949-C35A-4906-B4A2-55E24AF1D1B3"
+        }
+      ]
+    },
+    {
+      "sizePresetID": "app_store_iphone",
+      "imageBlocks": [],
+      "position": [
+        2.49875,
+        0,
+        0
+      ],
+      "background": {
+        "image": {
+          "fill": "fill",
+          "ref": {
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png",
+            "type": "document"
+          }
+        }
+      },
+      "sequenceIndex": 2,
+      "spanDevicesEnabled": false,
+      "perspectiveFOVDeg": 35,
+      "id": "E15D6760-B94A-47F7-860D-88828862F83F",
+      "orthoHeight": 0.18917927,
+      "name": "Bottom",
+      "textBlocks": [
+        {
+          "alignment": "center",
+          "weight": "black",
+          "horizontalAlignment": "center",
+          "sidePaddingMode": "uniform",
+          "role": "Title",
+          "isItalic": false,
+          "paddingSides": 13.264802631578947,
+          "index": 0,
+          "colorHex": "#FFFFFFFF",
+          "paddingTop": 82.97760036550304,
+          "lineSpacingMultiple": 1,
+          "isUnderlined": false,
+          "id": "8919027D-9022-415A-BDBF-7632E42ABDAA",
+          "string": "Lessons",
+          "sizePt": 60,
+          "paddingRight": 13.264802631578947,
+          "paddingLeft": 13.264802631578947,
+          "scaleToSingleLine": true,
+          "areLigaturesEnabled": true,
+          "fontFamily": "Fraunces"
+        },
+        {
+          "alignment": "center",
+          "weight": "regular",
+          "horizontalAlignment": "center",
+          "sidePaddingMode": "individual",
+          "role": "Subtitle",
+          "isItalic": false,
+          "paddingSides": 5,
+          "index": 1,
+          "colorHex": "#FFFFFFFF",
+          "paddingTop": 88.62470975232199,
+          "lineSpacingMultiple": 1,
+          "isUnderlined": false,
+          "id": "D661FA57-9C1D-4F88-BD3A-C8FD75D63571",
+          "string": "Included for free",
+          "sizePt": 32.812790247678016,
+          "paddingRight": 5,
+          "paddingLeft": 5,
+          "scaleToSingleLine": true,
+          "areLigaturesEnabled": true,
+          "fontFamily": "Jost"
+        }
+      ],
+      "size": [
+        1.6125,
+        3.495
+      ],
+      "cameraProjection": "perspective",
+      "models": [
+        {
+          "instanceLabel": "iPhone 18 Pro Max",
+          "deviceStyle": "clay",
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "positionOffset": [
+            0,
+            0.030432759,
+            0
+          ],
+          "screenImageFilename": "7B5FDDA4-BBC6-4A80-A886-3C10C1FE182F.jpg",
+          "rotationEuler": [
+            0,
+            0,
+            0
+          ],
+          "clayColorHex": "#666666FF",
+          "sourceModelID": "EAE78641-E4A8-41C1-BD3D-BF5AD193068C",
+          "assetName": "iPhone18ProMax",
+          "id": "EAE78641-E4A8-41C1-BD3D-BF5AD193068C"
+        }
+      ]
+    },
+    {
+      "textBlocks": [],
+      "models": [
+        {
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "screenImageFilename": "2B36ECF4-0FBE-4FA5-8DBD-ACC308EC86F2.jpg",
+          "instanceLabel": "iPhone 18 Pro Max",
+          "deviceStyle": "clay",
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "positionOffset": [
+            0,
+            0,
+            0
+          ],
+          "sourceModelID": "0DB0E03C-5CD8-4F72-87CD-A6631F23D284",
+          "assetName": "iPhone18ProMax",
+          "id": "0DB0E03C-5CD8-4F72-87CD-A6631F23D284",
+          "clayColorHex": "#666666FF",
+          "rotationEuler": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "sizePresetID": "app_store_iphone",
+      "size": [
+        1.6125,
+        3.495
+      ],
+      "id": "1475C5E3-3B34-4138-BCF2-AE08C9448325",
+      "sequenceIndex": 4,
+      "background": {
+        "image": {
+          "ref": {
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png",
+            "type": "document"
+          },
+          "fill": "fill"
+        }
+      },
+      "perspectiveFOVDeg": 35,
+      "cameraProjection": "perspective",
+      "orthoHeight": 0.18917927,
+      "spanDevicesEnabled": false,
+      "imageBlocks": [],
+      "position": [
+        5.88375,
+        0,
+        0
+      ],
+      "name": "Fullscreen"
+    },
+    {
+      "sequenceIndex": 6,
+      "orthoHeight": 0.18917927,
+      "textBlocks": [],
+      "cameraProjection": "perspective",
+      "name": "Angled 2",
+      "spanDevicesEnabled": true,
+      "background": {
+        "image": {
+          "ref": {
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png",
+            "type": "document"
+          },
+          "fill": "fill"
+        }
+      },
+      "position": [
+        9.268749,
+        0,
+        0
+      ],
+      "size": [
+        1.6125,
+        3.495
+      ],
+      "models": [],
+      "id": "137A73C4-B1B1-436D-A4F8-B871B9C64854",
+      "sizePresetID": "app_store_iphone",
+      "perspectiveFOVDeg": 35,
+      "imageBlocks": []
+    },
+    {
+      "sequenceIndex": 5,
+      "orthoHeight": 0.18917927,
+      "textBlocks": [
+        {
+          "horizontalAlignment": "leading",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": false,
+          "areLigaturesEnabled": true,
+          "string": "Designed for calm vibes",
+          "paddingTop": 81.03262285178494,
+          "fontFamily": "Fraunces",
+          "paddingLeft": 10.799487229102164,
+          "role": "Title",
+          "colorHex": "#FFFFFFFF",
+          "paddingRight": 23.991389318885446,
+          "sidePaddingMode": "individual",
+          "isUnderlined": false,
+          "id": "D0148707-5D64-4746-BA54-170B9F4E606C",
+          "paddingSides": 23.991389318885446,
+          "index": 0,
+          "weight": "black",
+          "isItalic": false,
+          "sizePt": 60
+        }
+      ],
+      "cameraProjection": "perspective",
+      "name": "Angled",
+      "spanDevicesEnabled": true,
+      "background": {
+        "image": {
+          "ref": {
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png",
+            "type": "document"
+          },
+          "fill": "fill"
+        }
+      },
+      "position": [
+        7.57625,
+        0,
+        0
+      ],
+      "size": [
+        1.6125,
+        3.495
+      ],
+      "sizePresetID": "app_store_iphone",
+      "id": "51260B14-0761-4F0F-BEA6-334B85FD8B07",
+      "models": [
+        {
+          "deviceStyle": "clay",
+          "assetName": "iPhone18ProMax",
+          "clayColorHex": "#666666FF",
+          "id": "07CB6168-A0A9-4AA8-99F9-9D899CA2A056",
+          "positionOffset": [
+            -0.046682667,
+            0,
+            0
+          ],
+          "instanceLabel": "iPhone 18 Pro Max",
+          "scale": [
+            1.09,
+            1.09,
+            1.09
+          ],
+          "sourceModelID": "07CB6168-A0A9-4AA8-99F9-9D899CA2A056",
+          "rotationEuler": [
+            0,
+            0,
+            -0.66531944
+          ],
+          "screenImageFilename": "2C13CC29-36FF-41A9-BCA4-992857AB21CA.jpg",
+          "uiOnlyOverlayCornerRadiusFactor": 0
+        }
+      ],
+      "perspectiveFOVDeg": 35,
+      "imageBlocks": []
+    },
+    {
+      "sequenceIndex": 8,
+      "orthoHeight": 0.18917927,
+      "textBlocks": [
+        {
+          "horizontalAlignment": "center",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": false,
+          "areLigaturesEnabled": true,
+          "string": "“Just. \nWow.”",
+          "paddingTop": 19.08499419504644,
+          "fontFamily": "Fraunces",
+          "paddingLeft": 15.626064241486066,
+          "role": "Title",
+          "colorHex": "#676767FF",
+          "paddingRight": 15.626064241486066,
+          "sidePaddingMode": "uniform",
+          "isUnderlined": false,
+          "id": "084E3533-9061-4600-A6EF-784DF993C883",
+          "paddingSides": 15.626064241486066,
+          "index": 0,
+          "weight": "black",
+          "isItalic": false,
+          "sizePt": 60
+        },
+        {
+          "horizontalAlignment": "center",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": false,
+          "areLigaturesEnabled": true,
+          "string": "“Instant buy.”",
+          "paddingTop": 70.43343653250774,
+          "fontFamily": "Fraunces",
+          "paddingLeft": 10.609073691460056,
+          "role": "Title 2",
+          "colorHex": "#FFFFFFFF",
+          "paddingRight": 10.609073691460056,
+          "sidePaddingMode": "uniform",
+          "isUnderlined": false,
+          "id": "6011779C-780E-4DCA-818A-C864811E1D93",
+          "paddingSides": 10.609073691460056,
+          "index": 1,
+          "weight": "black",
+          "isItalic": false,
+          "sizePt": 60
+        },
+        {
+          "horizontalAlignment": "center",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": false,
+          "areLigaturesEnabled": true,
+          "string": "Denise, App Review",
+          "paddingTop": 33.52965363777089,
+          "fontFamily": "Georgia",
+          "paddingLeft": 11.8,
+          "role": "Caption",
+          "colorHex": "#676767FF",
+          "paddingRight": 11.8,
+          "sidePaddingMode": "uniform",
+          "isUnderlined": false,
+          "id": "01496770-4CC6-4F83-AF24-0DA8B7899A87",
+          "paddingSides": 11.8,
+          "index": 2,
+          "weight": "regular",
+          "isItalic": false,
+          "sizePt": 28
+        },
+        {
+          "horizontalAlignment": "center",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": false,
+          "areLigaturesEnabled": true,
+          "string": "Tom, App Review",
+          "paddingTop": 80.72029798761609,
+          "fontFamily": "Georgia",
+          "paddingLeft": 11.8,
+          "role": "Caption 2",
+          "colorHex": "#FFFFFFFF",
+          "paddingRight": 11.8,
+          "sidePaddingMode": "uniform",
+          "isUnderlined": false,
+          "id": "ECA092F7-8E41-468C-A563-B9867433E34C",
+          "paddingSides": 11.8,
+          "index": 3,
+          "weight": "regular",
+          "isItalic": false,
+          "sizePt": 28
+        }
+      ],
+      "cameraProjection": "perspective",
+      "name": "Quote",
+      "spanDevicesEnabled": false,
+      "background": {
+        "image": {
+          "fill": "fill",
+          "ref": {
+            "type": "document",
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png"
+          }
+        }
+      },
+      "position": [
+        12.653749,
+        0,
+        0
+      ],
+      "size": [
+        1.6125,
+        3.495
+      ],
+      "sizePresetID": "app_store_iphone",
+      "id": "05D56121-A1F8-4AD3-9564-0FAC451F1011",
+      "models": [],
+      "perspectiveFOVDeg": 35,
+      "imageBlocks": [
+        {
+          "id": "6EAB6607-A189-42CB-9C38-A823F1F216D2",
+          "opacity": 100,
+          "scalePct": 41.679148372933874,
+          "yPct": 15.484713622291022,
+          "index": 0,
+          "role": "Stars",
+          "xPct": 50,
+          "ref": {
+            "name": "691ECD66-CD22-4EC3-B25E-2C22371FDA3E.png",
+            "type": "document"
+          }
+        },
+        {
+          "id": "D4738B54-A703-4FF9-9811-07B5B6A749E2",
+          "opacity": 100,
+          "scalePct": 41.679148372933874,
+          "yPct": 63.85811726006192,
+          "index": 1,
+          "role": "Stars-white",
+          "xPct": 50,
+          "ref": {
+            "type": "document",
+            "name": "8DD6B202-6BAD-4AEE-8344-3B2A18D29995.png"
+          }
+        }
+      ]
+    },
+    {
+      "textBlocks": [
+        {
+          "horizontalAlignment": "center",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": true,
+          "areLigaturesEnabled": true,
+          "string": "Dark mode ",
+          "paddingTop": 6.682067142811377,
+          "fontFamily": "Fraunces",
+          "paddingLeft": 15.626064241486066,
+          "role": "Title",
+          "colorHex": "#676767FF",
+          "paddingRight": 15.626064241486066,
+          "sidePaddingMode": "uniform",
+          "isUnderlined": false,
+          "id": "723C91D5-7A72-4B8E-953E-7C9128FE1C8D",
+          "paddingSides": 15.626064241486066,
+          "weight": "black",
+          "index": 0,
+          "sizePt": 60,
+          "isItalic": false
+        },
+        {
+          "sizePt": 32.812790247678016,
+          "role": "Subtitle",
+          "paddingTop": 13,
+          "paddingRight": 5,
+          "isItalic": false,
+          "id": "8899A5B9-F748-4F9D-86E2-00A8E0336291",
+          "paddingSides": 5,
+          "string": "Sweet dreams",
+          "lineSpacingMultiple": 1,
+          "paddingLeft": 5,
+          "areLigaturesEnabled": true,
+          "index": 1,
+          "sidePaddingMode": "individual",
+          "fontFamily": "Jost",
+          "colorHex": "#777777FF",
+          "alignment": "center",
+          "weight": "regular",
+          "isUnderlined": false,
+          "horizontalAlignment": "center",
+          "scaleToSingleLine": true
+        }
+      ],
+      "models": [
+        {
+          "positionOffset": [
+            0,
+            -0.027,
+            0
+          ],
+          "deviceStyle": "clay",
+          "instanceLabel": "iPhone 18 Pro Max",
+          "id": "7C3DC020-D78D-4416-AD13-A350215EE61A",
+          "clayColorHex": "#666666FF",
+          "rotationEuler": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "screenImageFilename": "DFEB2985-E90F-4CFA-83AB-DE226477DD1E.jpg",
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "sourceModelID": "7C3DC020-D78D-4416-AD13-A350215EE61A",
+          "assetName": "iPhone18ProMax"
+        }
+      ],
+      "sizePresetID": "app_store_iphone",
+      "size": [
+        1.6125,
+        3.495
+      ],
+      "id": "131E7C7C-022C-4299-AA59-001FFB6286DB",
+      "sequenceIndex": 7,
+      "background": {
+        "image": {
+          "fill": "fill",
+          "ref": {
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png",
+            "type": "document"
+          }
+        }
+      },
+      "perspectiveFOVDeg": 35,
+      "cameraProjection": "perspective",
+      "orthoHeight": 0.18917927,
+      "spanDevicesEnabled": false,
+      "imageBlocks": [],
+      "position": [
+        10.961249,
+        0,
+        0
+      ],
+      "name": "Top Dark Mode"
+    },
+    {
+      "textBlocks": [
+        {
+          "sizePt": 60,
+          "role": "Title",
+          "paddingTop": 6.682067142811377,
+          "paddingRight": 15.626064241486066,
+          "isItalic": false,
+          "id": "42942525-4EB0-44A7-B582-988A1F75B0C6",
+          "paddingSides": 15.626064241486066,
+          "string": "Watch support",
+          "lineSpacingMultiple": 1,
+          "paddingLeft": 15.626064241486066,
+          "areLigaturesEnabled": true,
+          "index": 0,
+          "sidePaddingMode": "uniform",
+          "fontFamily": "Fraunces",
+          "colorHex": "#676767FF",
+          "alignment": "center",
+          "weight": "black",
+          "isUnderlined": false,
+          "horizontalAlignment": "center",
+          "scaleToSingleLine": true
+        },
+        {
+          "sizePt": 32.812790247678016,
+          "role": "Subtitle",
+          "paddingTop": 13,
+          "paddingRight": 5,
+          "isItalic": false,
+          "id": "BC73899E-294B-4154-9C6C-0E30F4F3F46B",
+          "paddingSides": 5,
+          "string": "Relax from your wrist",
+          "lineSpacingMultiple": 1,
+          "paddingLeft": 5,
+          "areLigaturesEnabled": true,
+          "index": 1,
+          "sidePaddingMode": "individual",
+          "fontFamily": "Jost",
+          "colorHex": "#777777FF",
+          "alignment": "center",
+          "weight": "regular",
+          "isUnderlined": false,
+          "horizontalAlignment": "center",
+          "scaleToSingleLine": true
+        }
+      ],
+      "models": [
+        {
+          "positionOffset": [
+            0,
+            -0.021974169,
+            0
+          ],
+          "deviceStyle": "clay",
+          "instanceLabel": "Apple Watch Series 11",
+          "id": "5CF468EB-564A-44D5-9DCF-3E786A9455A5",
+          "clayColorHex": "#737373FF",
+          "rotationEuler": [
+            -0.3140529,
+            0.41845858,
+            0
+          ],
+          "scale": [
+            1.48616,
+            1.48616,
+            1.48616
+          ],
+          "screenImageFilename": "F53496E1-E9F0-479A-8B6D-9813942DEF8A.jpg",
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "sourceModelID": "5CF468EB-564A-44D5-9DCF-3E786A9455A5",
+          "assetName": "AppleWatchSeries11"
+        }
+      ],
+      "sizePresetID": "app_store_iphone",
+      "size": [
+        1.6125,
+        3.495
+      ],
+      "id": "40AD0F59-C68C-45EB-9CC9-F0A29691D840",
+      "sequenceIndex": 9,
+      "background": {
+        "image": {
+          "ref": {
+            "type": "document",
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png"
+          },
+          "fill": "fill"
+        }
+      },
+      "perspectiveFOVDeg": 35,
+      "cameraProjection": "perspective",
+      "orthoHeight": 0.18917927,
+      "spanDevicesEnabled": true,
+      "imageBlocks": [],
+      "position": [
+        14.34625,
+        0,
+        0
+      ],
+      "name": "Apple Watch"
+    },
+    {
+      "textBlocks": [
+        {
+          "sizePt": 60,
+          "role": "Title",
+          "paddingTop": 7.545278047618922,
+          "paddingRight": 5,
+          "isItalic": false,
+          "id": "1CA762C2-AA86-4470-B55F-6093DC205765",
+          "paddingSides": 5,
+          "string": "Easy peasy",
+          "lineSpacingMultiple": 1,
+          "paddingLeft": 5,
+          "areLigaturesEnabled": true,
+          "index": 0,
+          "sidePaddingMode": "individual",
+          "fontFamily": "Fraunces",
+          "colorHex": "#676767FF",
+          "alignment": "center",
+          "weight": "black",
+          "isUnderlined": false,
+          "horizontalAlignment": "center",
+          "scaleToSingleLine": false
+        },
+        {
+          "sizePt": 32.812790247678016,
+          "role": "Subtitle",
+          "paddingTop": 13.293387901037931,
+          "paddingRight": 5,
+          "isItalic": false,
+          "id": "1E805134-EFF3-4F3C-8109-8D03865BB9B4",
+          "paddingSides": 5,
+          "string": "Meditation for the rest of us",
+          "lineSpacingMultiple": 1,
+          "paddingLeft": 5,
+          "areLigaturesEnabled": true,
+          "index": 1,
+          "sidePaddingMode": "individual",
+          "fontFamily": "Jost",
+          "colorHex": "#777777FF",
+          "alignment": "center",
+          "weight": "regular",
+          "isUnderlined": false,
+          "horizontalAlignment": "center",
+          "scaleToSingleLine": false
+        }
+      ],
+      "models": [
+        {
+          "positionOffset": [
+            0,
+            -0.027,
+            0
+          ],
+          "deviceStyle": "clay",
+          "instanceLabel": "iPhone 18 Pro Max",
+          "id": "9B39EC56-C419-45A5-A29D-1801A8571887",
+          "clayColorHex": "#666666FF",
+          "rotationEuler": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "screenImageFilename": "0F50BAA6-FC74-4647-A85D-A686CBB803EC.jpg",
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "sourceModelID": "BD89D92A-2F01-487C-B2C3-5554ED3D7B76",
+          "assetName": "iPhone18ProMax"
+        }
+      ],
+      "sizePresetID": "app_store_iphone",
+      "size": [
+        1.6125,
+        3.495
+      ],
+      "id": "A3F5E730-D48F-447E-9A20-7B4E97F11D54",
+      "sequenceIndex": 1,
+      "background": {
+        "image": {
+          "ref": {
+            "type": "document",
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png"
+          },
+          "fill": "fill"
+        }
+      },
+      "perspectiveFOVDeg": 35,
+      "cameraProjection": "perspective",
+      "orthoHeight": 0.18917927,
+      "spanDevicesEnabled": false,
+      "imageBlocks": [],
+      "position": [
+        0.80625,
+        0,
+        0
+      ],
+      "name": "Introduction"
+    },
+    {
+      "textBlocks": [
+        {
+          "sizePt": 56.093023255813954,
+          "role": "Title",
+          "paddingTop": 7.6758662509528435,
+          "paddingRight": 5.0,
+          "isItalic": false,
+          "id": "96CDFE35-D9E9-5113-948B-8A60A3CCD9C9",
+          "paddingSides": 5.0,
+          "string": "Easy peasy",
+          "lineSpacingMultiple": 1,
+          "paddingLeft": 5.0,
+          "areLigaturesEnabled": true,
+          "index": 0,
+          "sidePaddingMode": "individual",
+          "fontFamily": "Fraunces",
+          "colorHex": "#676767FF",
+          "alignment": "center",
+          "weight": "black",
+          "isUnderlined": false,
+          "horizontalAlignment": "center",
+          "scaleToSingleLine": false
+        },
+        {
+          "sizePt": 30.67614344085247,
+          "role": "Subtitle",
+          "paddingTop": 13.406295259843745,
+          "paddingRight": 5.0,
+          "isItalic": false,
+          "id": "808F040D-F9E7-5CF9-98E3-C48F959A3DEA",
+          "paddingSides": 5.0,
+          "string": "Meditation for the rest of us",
+          "lineSpacingMultiple": 1,
+          "paddingLeft": 5.0,
+          "areLigaturesEnabled": true,
+          "index": 1,
+          "sidePaddingMode": "individual",
+          "fontFamily": "Jost",
+          "colorHex": "#777777FF",
+          "alignment": "center",
+          "weight": "regular",
+          "isUnderlined": false,
+          "horizontalAlignment": "center",
+          "scaleToSingleLine": false
+        }
+      ],
+      "models": [
+        {
+          "positionOffset": [
+            0,
+            -0.027,
+            0
+          ],
+          "deviceStyle": "clay",
+          "instanceLabel": "iPhone 18 Pro Max",
+          "id": "2A73FB85-7306-53A0-9720-46250B26DF4E",
+          "clayColorHex": "#666666FF",
+          "rotationEuler": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "screenImageFilename": "0F50BAA6-FC74-4647-A85D-A686CBB803EC.jpg",
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "sourceModelID": "BD89D92A-2F01-487C-B2C3-5554ED3D7B76",
+          "assetName": "iPhone18ProMax"
+        }
+      ],
+      "sizePresetID": "app_store_iphone_medium",
+      "size": [
+        1.5075,
+        3.2775
+      ],
+      "id": "0AFC9382-6A96-5BB7-8274-78E1B0B20ECE",
+      "sequenceIndex": 10,
+      "background": {
+        "image": {
+          "ref": {
+            "type": "document",
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png"
+          },
+          "fill": "fill"
+        }
+      },
+      "perspectiveFOVDeg": 35.10136978822146,
+      "cameraProjection": "perspective",
+      "orthoHeight": 0.18976296962451691,
+      "spanDevicesEnabled": false,
+      "imageBlocks": [],
+      "position": [
+        0.80625,
+        0,
+        0
+      ],
+      "name": "Introduction"
+    },
+    {
+      "sizePresetID": "app_store_iphone_medium",
+      "imageBlocks": [],
+      "position": [
+        2.49875,
+        0,
+        0
+      ],
+      "background": {
+        "image": {
+          "fill": "fill",
+          "ref": {
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png",
+            "type": "document"
+          }
+        }
+      },
+      "sequenceIndex": 11,
+      "spanDevicesEnabled": false,
+      "perspectiveFOVDeg": 35.10136978822146,
+      "id": "3A6448C4-F7A7-588F-8E9D-B2017F5043B9",
+      "orthoHeight": 0.18976296962451691,
+      "name": "Bottom",
+      "textBlocks": [
+        {
+          "alignment": "center",
+          "weight": "black",
+          "horizontalAlignment": "center",
+          "sidePaddingMode": "uniform",
+          "role": "Title",
+          "isItalic": false,
+          "paddingSides": 13.264802631578945,
+          "index": 0,
+          "colorHex": "#FFFFFFFF",
+          "paddingTop": 82.87616322532284,
+          "lineSpacingMultiple": 1,
+          "isUnderlined": false,
+          "id": "EE7F2A84-68F2-5FC7-B39C-323D96D4562C",
+          "string": "Lessons",
+          "sizePt": 56.093023255813954,
+          "paddingRight": 13.264802631578945,
+          "paddingLeft": 13.264802631578945,
+          "scaleToSingleLine": true,
+          "areLigaturesEnabled": true,
+          "fontFamily": "Fraunces"
+        },
+        {
+          "alignment": "center",
+          "weight": "regular",
+          "horizontalAlignment": "center",
+          "sidePaddingMode": "individual",
+          "role": "Subtitle",
+          "isItalic": false,
+          "paddingSides": 5.0,
+          "index": 1,
+          "colorHex": "#FFFFFFFF",
+          "paddingTop": 88.50590243905052,
+          "lineSpacingMultiple": 1,
+          "isUnderlined": false,
+          "id": "94C4A664-9864-5741-8A1A-B7EAF66D1C4E",
+          "string": "Included for free",
+          "sizePt": 30.67614344085247,
+          "paddingRight": 5.0,
+          "paddingLeft": 5.0,
+          "scaleToSingleLine": true,
+          "areLigaturesEnabled": true,
+          "fontFamily": "Jost"
+        }
+      ],
+      "size": [
+        1.5075,
+        3.2775
+      ],
+      "cameraProjection": "perspective",
+      "models": [
+        {
+          "instanceLabel": "iPhone 18 Pro Max",
+          "deviceStyle": "clay",
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "positionOffset": [
+            0,
+            0.030432759,
+            0
+          ],
+          "screenImageFilename": "7B5FDDA4-BBC6-4A80-A886-3C10C1FE182F.jpg",
+          "rotationEuler": [
+            0,
+            0,
+            0
+          ],
+          "clayColorHex": "#666666FF",
+          "sourceModelID": "7823A687-23F0-52B8-9DDA-AFF36F808E14",
+          "assetName": "iPhone18ProMax",
+          "id": "7823A687-23F0-52B8-9DDA-AFF36F808E14"
+        }
+      ]
+    },
+    {
+      "sizePresetID": "app_store_iphone_medium",
+      "imageBlocks": [],
+      "position": [
+        4.19125,
+        0,
+        0
+      ],
+      "background": {
+        "image": {
+          "fill": "fill",
+          "ref": {
+            "type": "document",
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png"
+          }
+        }
+      },
+      "sequenceIndex": 12,
+      "spanDevicesEnabled": false,
+      "perspectiveFOVDeg": 35.10136978822146,
+      "id": "A64F84FB-1911-56E2-933E-0F9DCE962F8E",
+      "orthoHeight": 0.18976296962451691,
+      "name": "Top",
+      "textBlocks": [
+        {
+          "alignment": "center",
+          "fontFamily": "Fraunces",
+          "horizontalAlignment": "center",
+          "sidePaddingMode": "uniform",
+          "role": "Title",
+          "isItalic": false,
+          "paddingSides": 15.626064241486063,
+          "index": 0,
+          "colorHex": "#676767FF",
+          "paddingTop": 6.421461984939562,
+          "lineSpacingMultiple": 1,
+          "isUnderlined": false,
+          "id": "E4A79C0B-91CF-5719-A62E-74779FA20094",
+          "string": "Relaxing audio",
+          "sizePt": 56.093023255813954,
+          "paddingRight": 15.626064241486063,
+          "paddingLeft": 15.626064241486063,
+          "scaleToSingleLine": true,
+          "areLigaturesEnabled": true,
+          "weight": "black"
+        },
+        {
+          "alignment": "center",
+          "weight": "regular",
+          "horizontalAlignment": "center",
+          "sidePaddingMode": "individual",
+          "role": "Subtitle",
+          "isItalic": false,
+          "paddingSides": 5.0,
+          "index": 1,
+          "colorHex": "#777777FF",
+          "paddingTop": 13.113809802565058,
+          "lineSpacingMultiple": 1,
+          "isUnderlined": false,
+          "id": "51208EC3-3AAA-57B5-87F7-5157D31723F4",
+          "string": "Find calm anywhere",
+          "sizePt": 30.67614344085247,
+          "paddingRight": 5.0,
+          "paddingLeft": 5.0,
+          "scaleToSingleLine": true,
+          "areLigaturesEnabled": true,
+          "fontFamily": "Jost"
+        }
+      ],
+      "size": [
+        1.5075,
+        3.2775
+      ],
+      "cameraProjection": "perspective",
+      "models": [
+        {
+          "instanceLabel": "iPhone 18 Pro Max",
+          "deviceStyle": "clay",
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "positionOffset": [
+            0,
+            -0.027,
+            0
+          ],
+          "screenImageFilename": "CF2E90DE-8164-4235-8A36-055C74B6354E.jpg",
+          "rotationEuler": [
+            0,
+            0,
+            0
+          ],
+          "clayColorHex": "#666666FF",
+          "sourceModelID": "D5AF87C7-06A0-50AD-9976-1D11C1819384",
+          "assetName": "iPhone18ProMax",
+          "id": "D5AF87C7-06A0-50AD-9976-1D11C1819384"
+        }
+      ]
+    },
+    {
+      "textBlocks": [],
+      "models": [
+        {
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "screenImageFilename": "2B36ECF4-0FBE-4FA5-8DBD-ACC308EC86F2.jpg",
+          "instanceLabel": "iPhone 18 Pro Max",
+          "deviceStyle": "clay",
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "positionOffset": [
+            0,
+            0,
+            0
+          ],
+          "sourceModelID": "E815EDBA-6AAA-541A-A50C-BCB125B014A4",
+          "assetName": "iPhone18ProMax",
+          "id": "E815EDBA-6AAA-541A-A50C-BCB125B014A4",
+          "clayColorHex": "#666666FF",
+          "rotationEuler": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "sizePresetID": "app_store_iphone_medium",
+      "size": [
+        1.5075,
+        3.2775
+      ],
+      "id": "F23955B5-970C-55D9-82A1-3C9BB0189446",
+      "sequenceIndex": 13,
+      "background": {
+        "image": {
+          "ref": {
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png",
+            "type": "document"
+          },
+          "fill": "fill"
+        }
+      },
+      "perspectiveFOVDeg": 35.10136978822146,
+      "cameraProjection": "perspective",
+      "orthoHeight": 0.18976296962451691,
+      "spanDevicesEnabled": false,
+      "imageBlocks": [],
+      "position": [
+        5.88375,
+        0,
+        0
+      ],
+      "name": "Fullscreen"
+    },
+    {
+      "sequenceIndex": 14,
+      "orthoHeight": 0.18976296962451691,
+      "textBlocks": [
+        {
+          "horizontalAlignment": "leading",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": false,
+          "areLigaturesEnabled": true,
+          "string": "Designed for calm vibes",
+          "paddingTop": 80.93716834692447,
+          "fontFamily": "Fraunces",
+          "paddingLeft": 10.799487229102162,
+          "role": "Title",
+          "colorHex": "#FFFFFFFF",
+          "paddingRight": 23.991389318885446,
+          "sidePaddingMode": "individual",
+          "isUnderlined": false,
+          "id": "BB013E21-F4D0-5478-93C3-A591540017DE",
+          "paddingSides": 23.991389318885446,
+          "index": 0,
+          "weight": "black",
+          "isItalic": false,
+          "sizePt": 56.093023255813954
+        }
+      ],
+      "cameraProjection": "perspective",
+      "name": "Angled",
+      "spanDevicesEnabled": true,
+      "background": {
+        "image": {
+          "ref": {
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png",
+            "type": "document"
+          },
+          "fill": "fill"
+        }
+      },
+      "position": [
+        7.57625,
+        0,
+        0
+      ],
+      "size": [
+        1.5075,
+        3.2775
+      ],
+      "sizePresetID": "app_store_iphone_medium",
+      "id": "576E2C2C-37B8-5B87-8270-113F295875A0",
+      "models": [
+        {
+          "deviceStyle": "clay",
+          "assetName": "iPhone18ProMax",
+          "clayColorHex": "#666666FF",
+          "id": "120C44A4-5BBC-5F9C-9575-3999E120AF2C",
+          "positionOffset": [
+            -0.046682667,
+            0,
+            0
+          ],
+          "instanceLabel": "iPhone 18 Pro Max",
+          "scale": [
+            1.09,
+            1.09,
+            1.09
+          ],
+          "sourceModelID": "120C44A4-5BBC-5F9C-9575-3999E120AF2C",
+          "rotationEuler": [
+            0,
+            0,
+            -0.66531944
+          ],
+          "screenImageFilename": "2C13CC29-36FF-41A9-BCA4-992857AB21CA.jpg",
+          "uiOnlyOverlayCornerRadiusFactor": 0
+        }
+      ],
+      "perspectiveFOVDeg": 35.10136978822146,
+      "imageBlocks": []
+    },
+    {
+      "sequenceIndex": 15,
+      "orthoHeight": 0.18976296962451691,
+      "textBlocks": [],
+      "cameraProjection": "perspective",
+      "name": "Angled 2",
+      "spanDevicesEnabled": true,
+      "background": {
+        "image": {
+          "ref": {
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png",
+            "type": "document"
+          },
+          "fill": "fill"
+        }
+      },
+      "position": [
+        9.268749,
+        0,
+        0
+      ],
+      "size": [
+        1.5075,
+        3.2775
+      ],
+      "models": [],
+      "id": "7CE0CA35-ECF8-53A5-BBCC-572C0FE2DD0F",
+      "sizePresetID": "app_store_iphone_medium",
+      "perspectiveFOVDeg": 35.10136978822146,
+      "imageBlocks": []
+    },
+    {
+      "textBlocks": [
+        {
+          "horizontalAlignment": "center",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": true,
+          "areLigaturesEnabled": true,
+          "string": "Dark mode ",
+          "paddingTop": 6.8153105316222735,
+          "fontFamily": "Fraunces",
+          "paddingLeft": 15.626064241486063,
+          "role": "Title",
+          "colorHex": "#676767FF",
+          "paddingRight": 15.626064241486063,
+          "sidePaddingMode": "uniform",
+          "isUnderlined": false,
+          "id": "E49827BD-64B7-54F9-BC24-690FEFE8D462",
+          "paddingSides": 15.626064241486063,
+          "weight": "black",
+          "index": 0,
+          "sizePt": 56.093023255813954,
+          "isItalic": false
+        },
+        {
+          "sizePt": 30.67614344085247,
+          "role": "Subtitle",
+          "paddingTop": 13.113809802565058,
+          "paddingRight": 5.0,
+          "isItalic": false,
+          "id": "1456C15A-D560-5BDA-B29C-648D285819CC",
+          "paddingSides": 5.0,
+          "string": "Sweet dreams",
+          "lineSpacingMultiple": 1,
+          "paddingLeft": 5.0,
+          "areLigaturesEnabled": true,
+          "index": 1,
+          "sidePaddingMode": "individual",
+          "fontFamily": "Jost",
+          "colorHex": "#777777FF",
+          "alignment": "center",
+          "weight": "regular",
+          "isUnderlined": false,
+          "horizontalAlignment": "center",
+          "scaleToSingleLine": true
+        }
+      ],
+      "models": [
+        {
+          "positionOffset": [
+            0,
+            -0.027,
+            0
+          ],
+          "deviceStyle": "clay",
+          "instanceLabel": "iPhone 18 Pro Max",
+          "id": "02CF9CC8-60A4-5A47-B537-854A98AD2A5A",
+          "clayColorHex": "#666666FF",
+          "rotationEuler": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ],
+          "screenImageFilename": "DFEB2985-E90F-4CFA-83AB-DE226477DD1E.jpg",
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "sourceModelID": "02CF9CC8-60A4-5A47-B537-854A98AD2A5A",
+          "assetName": "iPhone18ProMax"
+        }
+      ],
+      "sizePresetID": "app_store_iphone_medium",
+      "size": [
+        1.5075,
+        3.2775
+      ],
+      "id": "511504EA-EDC6-5F87-8B3B-5699F66F7E38",
+      "sequenceIndex": 16,
+      "background": {
+        "image": {
+          "fill": "fill",
+          "ref": {
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png",
+            "type": "document"
+          }
+        }
+      },
+      "perspectiveFOVDeg": 35.10136978822146,
+      "cameraProjection": "perspective",
+      "orthoHeight": 0.18976296962451691,
+      "spanDevicesEnabled": false,
+      "imageBlocks": [],
+      "position": [
+        10.961249,
+        0,
+        0
+      ],
+      "name": "Top Dark Mode"
+    },
+    {
+      "sequenceIndex": 17,
+      "orthoHeight": 0.18976296962451691,
+      "textBlocks": [
+        {
+          "horizontalAlignment": "center",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": false,
+          "areLigaturesEnabled": true,
+          "string": "“Just. \nWow.”",
+          "paddingTop": 19.180086916856155,
+          "fontFamily": "Fraunces",
+          "paddingLeft": 15.626064241486063,
+          "role": "Title",
+          "colorHex": "#676767FF",
+          "paddingRight": 15.626064241486063,
+          "sidePaddingMode": "uniform",
+          "isUnderlined": false,
+          "id": "C269756F-BD5F-51E8-995A-EE59BBAC8042",
+          "paddingSides": 15.626064241486063,
+          "index": 0,
+          "weight": "black",
+          "isItalic": false,
+          "sizePt": 56.093023255813954
+        },
+        {
+          "horizontalAlignment": "center",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": false,
+          "areLigaturesEnabled": true,
+          "string": "“Instant buy.”",
+          "paddingTop": 70.37058449527828,
+          "fontFamily": "Fraunces",
+          "paddingLeft": 10.609073691460054,
+          "role": "Title 2",
+          "colorHex": "#FFFFFFFF",
+          "paddingRight": 10.609073691460054,
+          "sidePaddingMode": "uniform",
+          "isUnderlined": false,
+          "id": "6C508282-9C68-55D3-86DF-941F76001CC2",
+          "paddingSides": 10.609073691460054,
+          "index": 1,
+          "weight": "black",
+          "isItalic": false,
+          "sizePt": 56.093023255813954
+        },
+        {
+          "horizontalAlignment": "center",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": false,
+          "areLigaturesEnabled": true,
+          "string": "Denise, App Review",
+          "paddingTop": 33.58031544500504,
+          "fontFamily": "Georgia",
+          "paddingLeft": 11.799999999999997,
+          "role": "Caption",
+          "colorHex": "#676767FF",
+          "paddingRight": 11.799999999999997,
+          "sidePaddingMode": "uniform",
+          "isUnderlined": false,
+          "id": "CAFEF4D3-1560-542C-9C73-8DD4294CAB87",
+          "paddingSides": 11.799999999999997,
+          "index": 2,
+          "weight": "regular",
+          "isItalic": false,
+          "sizePt": 26.176744186046513
+        },
+        {
+          "horizontalAlignment": "center",
+          "lineSpacingMultiple": 1,
+          "alignment": "center",
+          "scaleToSingleLine": false,
+          "areLigaturesEnabled": true,
+          "string": "Tom, App Review",
+          "paddingTop": 80.62580417548878,
+          "fontFamily": "Georgia",
+          "paddingLeft": 11.799999999999997,
+          "role": "Caption 2",
+          "colorHex": "#FFFFFFFF",
+          "paddingRight": 11.799999999999997,
+          "sidePaddingMode": "uniform",
+          "isUnderlined": false,
+          "id": "EAA4EF67-5433-5000-AEAD-3263AAD70D29",
+          "paddingSides": 11.799999999999997,
+          "index": 3,
+          "weight": "regular",
+          "isItalic": false,
+          "sizePt": 26.176744186046513
+        }
+      ],
+      "cameraProjection": "perspective",
+      "name": "Quote",
+      "spanDevicesEnabled": false,
+      "background": {
+        "image": {
+          "fill": "fill",
+          "ref": {
+            "type": "document",
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png"
+          }
+        }
+      },
+      "position": [
+        12.653749,
+        0,
+        0
+      ],
+      "size": [
+        1.5075,
+        3.2775
+      ],
+      "sizePresetID": "app_store_iphone_medium",
+      "id": "BC14C561-25D6-5600-A062-89631EE53C61",
+      "models": [],
+      "perspectiveFOVDeg": 35.10136978822146,
+      "imageBlocks": [
+        {
+          "id": "B69ABF91-3580-5155-8CC5-6CA9FAAE0B40",
+          "opacity": 100,
+          "scalePct": 41.679148372933874,
+          "yPct": 15.590880593321394,
+          "index": 0,
+          "role": "Stars",
+          "xPct": 50.0,
+          "ref": {
+            "name": "691ECD66-CD22-4EC3-B25E-2C22371FDA3E.png",
+            "type": "document"
+          }
+        },
+        {
+          "id": "71D2EC07-C0FD-50E5-A4CB-3A022ADF387B",
+          "opacity": 100,
+          "scalePct": 41.679148372933874,
+          "yPct": 63.8154905144054,
+          "index": 1,
+          "role": "Stars-white",
+          "xPct": 50.0,
+          "ref": {
+            "type": "document",
+            "name": "8DD6B202-6BAD-4AEE-8344-3B2A18D29995.png"
+          }
+        }
+      ]
+    },
+    {
+      "textBlocks": [
+        {
+          "sizePt": 56.093023255813954,
+          "role": "Title",
+          "paddingTop": 6.8153105316222735,
+          "paddingRight": 15.626064241486063,
+          "isItalic": false,
+          "id": "13E23453-246E-5C97-9253-6B48D5FFCA63",
+          "paddingSides": 15.626064241486063,
+          "string": "Watch support",
+          "lineSpacingMultiple": 1,
+          "paddingLeft": 15.626064241486063,
+          "areLigaturesEnabled": true,
+          "index": 0,
+          "sidePaddingMode": "uniform",
+          "fontFamily": "Fraunces",
+          "colorHex": "#676767FF",
+          "alignment": "center",
+          "weight": "black",
+          "isUnderlined": false,
+          "horizontalAlignment": "center",
+          "scaleToSingleLine": true
+        },
+        {
+          "sizePt": 30.67614344085247,
+          "role": "Subtitle",
+          "paddingTop": 13.113809802565058,
+          "paddingRight": 5.0,
+          "isItalic": false,
+          "id": "DD94D477-115B-5C72-9383-D3D67A216E84",
+          "paddingSides": 5.0,
+          "string": "Relax from your wrist",
+          "lineSpacingMultiple": 1,
+          "paddingLeft": 5.0,
+          "areLigaturesEnabled": true,
+          "index": 1,
+          "sidePaddingMode": "individual",
+          "fontFamily": "Jost",
+          "colorHex": "#777777FF",
+          "alignment": "center",
+          "weight": "regular",
+          "isUnderlined": false,
+          "horizontalAlignment": "center",
+          "scaleToSingleLine": true
+        }
+      ],
+      "models": [
+        {
+          "positionOffset": [
+            0,
+            -0.021974169,
+            0
+          ],
+          "deviceStyle": "clay",
+          "instanceLabel": "Apple Watch Series 11",
+          "id": "7954AB5B-E1C1-5E08-9E71-87AEBEEDF152",
+          "clayColorHex": "#737373FF",
+          "rotationEuler": [
+            -0.3140529,
+            0.41845858,
+            0
+          ],
+          "scale": [
+            1.48616,
+            1.48616,
+            1.48616
+          ],
+          "screenImageFilename": "F53496E1-E9F0-479A-8B6D-9813942DEF8A.jpg",
+          "uiOnlyOverlayCornerRadiusFactor": 0,
+          "sourceModelID": "7954AB5B-E1C1-5E08-9E71-87AEBEEDF152",
+          "assetName": "AppleWatchSeries11"
+        }
+      ],
+      "sizePresetID": "app_store_iphone_medium",
+      "size": [
+        1.5075,
+        3.2775
+      ],
+      "id": "7FA64B77-E0DD-5343-8C59-598FD4687BB0",
+      "sequenceIndex": 18,
+      "background": {
+        "image": {
+          "ref": {
+            "type": "document",
+            "name": "107943FE-4595-41A9-BD1D-258E6876A690.png"
+          },
+          "fill": "fill"
+        }
+      },
+      "perspectiveFOVDeg": 35.10136978822146,
+      "cameraProjection": "perspective",
+      "orthoHeight": 0.18976296962451691,
+      "spanDevicesEnabled": true,
+      "imageBlocks": [],
+      "position": [
+        14.34625,
+        0,
+        0
+      ],
+      "name": "Apple Watch"
+    }
+  ],
+  "baseLanguageCode": "en-US",
+  "metadata": {}
+}

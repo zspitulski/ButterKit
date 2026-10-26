@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private help, licenses and billing
+    url: mailto:feedback@butterkit.app
+    about: For anything that shouldn't be public, including your unreleased app.
+  - name: Documentation
+    url: https://butterkit.app/docs?utm_source=github
+    about: Guides for capture, design, translation, publishing and MCP.
+  - name: Community on Reddit
+    url: https://reddit.com/r/butterkit
+    about: Tips, showcases and release threads.
+  - name: Discord
+    url: https://discord.gg/UZ3SqSYDrV
+    about: Chat with other ButterKit users.

@@ -1,0 +1,38 @@
+# Capture screenshots with fastlane, then lay them out for a ButterKit linked folder.
+# Copy this file and butterkit_folders.rb into your project's fastlane/ folder.
+
+# Each simulator you capture on, and the ButterKit device folder its screenshots go to.
+# Use the device name from ButterKit's device list, or just "iPhone" or "iPad" to fill
+# every device of that kind in your project.
+BUTTERKIT_DEVICES = {
+  "iPhone 17 Pro Max" => "iPhone 17 Pro Max",
+  "iPad Pro 13-inch (M4)" => "iPad",
+}.freeze
+
+# Fastfile code runs inside fastlane/ while actions run from the project root,
+# so resolve paths once from the fastlane folder itself.
+FASTLANE_DIR = File.expand_path(FastlaneCore::FastlaneFolder.path)
+require File.join(FASTLANE_DIR, "butterkit_folders")
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Capture screenshots and refresh the ButterKit linked folder"
+  lane :butterkit_screenshots do
+    capture_screenshots(
+      scheme: "YourAppUITests",
+      devices: BUTTERKIT_DEVICES.keys,
+      languages: ["en-US", "de-DE", "ja"],
+      output_directory: File.join(FASTLANE_DIR, "screenshots"),
+      clear_previous_screenshots: true,
+      override_status_bar: true
+    )
+
+    count = ButterKitFolders.organize(
+      source: File.join(FASTLANE_DIR, "screenshots"),
+      destination: File.join(FASTLANE_DIR, "butterkit"),
+      devices: BUTTERKIT_DEVICES
+    )
+    UI.success("Copied #{count} screenshots to fastlane/butterkit. Link that folder in ButterKit once.")
+  end
+end
