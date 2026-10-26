@@ -118,7 +118,7 @@ ButterKit ships with an MCP server, so any agent that speaks the [Model Context 
    > Use ButterKit to add Italian to my screenshots, translate them, and upload them to App Store Connect.
 
 > [!TIP]
-> ButterKit does not need to be open when your agent starts. The first tool call launches it for you. See the [MCP docs](https://butterkit.app/docs/mcp/?utm_source=github) for all 40 tools and setup for other clients.
+> ButterKit does not need to be open when your agent starts. The first tool call launches it for you. See the [MCP docs](https://butterkit.app/docs/mcp/?utm_source=github) for the full tool list and setup for other clients.
 
 ## What's in this repository
 
