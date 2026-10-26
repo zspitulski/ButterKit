@@ -50,7 +50,7 @@
 
 **10 screenshots × 50 languages = 500 designs.** Then you ship an update and start over.
 
-With ButterKit you design those 10 once. It translates them into every App Store language, keeps all 500 in sync as you make changes, and publishes the whole set to App Store Connect in one step. Your app looks at home in every market, and you get back to building it.
+With ButterKit you design those 10 once. It translates them into every App Store language, keeps all 500 in sync as you make changes, and publishes the whole set to App Store Connect in one step.
 
 | | Legacy design tools | AI image generators | **ButterKit** |
 | --- | :---: | :---: | :---: |
@@ -65,18 +65,18 @@ With ButterKit you design those 10 once. It translates them into every App Store
 
 ## What it does
 
-- **Capture from Xcode.** Pull screens straight from Xcode's Device Hub and see them inside realistic 3D devices, instantly.
+- **Capture from Xcode.** Import screenshots from Xcode's Device Hub into 3D device frames.
 - **Every App Store size.** iPhone, iPad, Mac, Apple Watch, Apple TV, Apple Vision Pro and iPhone Duo. Move existing screenshots to new sizes in one click.
 - **Translate into 50 languages.** On-device translation is free. Add your own cloud API key to cover every App Store language.
 - **Publish to App Store Connect.** Preview your listing, edit metadata, and upload screenshots plus Header and Search Results artwork without leaving the app.
 - **Link your folders.** Point ButterKit at a Fastlane or build output folder, and screenshots refresh when the files change.
-- **Let your agent drive.** A built-in MCP server lets Claude, Cursor or Codex in ChatGPT design, translate and publish for you.
-
-## Built to be owned
-
+- **AI agents (MCP).** A built-in MCP server lets Claude, Cursor or Codex in ChatGPT design, translate and publish through ButterKit.
 - **Native and local.** Built with SwiftUI and RealityKit, running on your Mac. Your designs never pass through a ButterKit server.
-- **Pay once if you like.** Pro comes as a one-time Lifetime license, so your copy keeps working no matter what happens to the website.
 - **Open, Git-friendly files.** A `.butterkit` document is a folder of plain JSON and your images. Unchanged linked screenshots keep their files, so Git only sees images that really changed. The [format guide](format/README.md) shows how to get readable diffs.
+
+## One-time purchase available
+
+Pro is available as a one-time Lifetime license that doesn't expire, or as a Supporter plan. It removes the export watermark and adds App Store Connect publishing. The free version includes the design tools and templates, with watermarked exports. Education, veteran and first responder discounts are 50% off. [See pricing](https://butterkit.app/pricing?utm_source=github).
 
 ## Free templates
 
@@ -122,7 +122,7 @@ ButterKit ships with an MCP server, so any agent that speaks the [Model Context 
 
 ## What's in this repository
 
-This is ButterKit's open side: the source of the bridge your AI tool runs, a complete guide to the document format, ready-made automation, and every release and bug report, all in public.
+This repository holds the MCP bridge source, a guide to the document format, automation examples, the changelog and the public issue tracker.
 
 | Folder | What it is |
 | --- | --- |
@@ -140,10 +140,6 @@ This is ButterKit's public issue tracker.
 - **Found a bug?** [Open a bug report](../../issues/new?template=bug_report.yml). Include your ButterKit version (**ButterKit > About ButterKit**), your macOS version and the steps to reproduce. A sample `.butterkit` file helps most.
 - **Want something?** [Request a feature](../../issues/new?template=feature_request.yml), or add a thumbs up to an existing request. Reactions help decide what gets built next.
 - **Private matters** like licenses, billing or your unreleased app go to [feedback@butterkit.app](mailto:feedback@butterkit.app). Please keep screenshots of unreleased apps out of public issues.
-
-## Pricing
-
-Free to download and use, with watermarked exports. Pro removes the watermark and adds App Store Connect publishing, as a one-time Lifetime license or a Supporter plan. Education, veteran and first responder discounts are 50% off. [See pricing](https://butterkit.app/pricing?utm_source=github).
 
 ## What developers say
 
@@ -204,11 +200,11 @@ Read more at [butterkit.app/reviews](https://butterkit.app/reviews?utm_source=gi
 
 ## Also from ButterKit
 
-**[ButterKit Motion](https://butterkit.app/motion?utm_source=github).** Your screen recordings, now a commercial. 3D camera moves, callouts, music and AI narration in a native Mac app.
+**[ButterKit Motion](https://butterkit.app/motion?utm_source=github)** is a Mac app that turns screen recordings into product videos, with 3D camera moves, callouts, music and AI narration.
 
 ## About
 
-I'm Zach Spitulski, and I build ButterKit out of my small garage in Los Angeles. I'm a dad, a hiker and backpacker, and a design engineer who is all-in on ButterKit. One developer, self-funded, obsessively focused on helping you reach more users.
+I'm Zach Spitulski, and I build ButterKit out of my small garage in Los Angeles. I'm a dad, a hiker and backpacker, and a design engineer. ButterKit is self-funded and built by one developer.
 
 <br>
 
