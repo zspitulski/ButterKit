@@ -6,6 +6,10 @@ You're free to share and adapt it for any purpose, including commercially, as lo
 
 This license covers the guide's text. It does not cover the ButterKit app, and it does not grant rights to the ButterKit name or logo.
 
+## The reader script
+
+`tools/list_boards.py` is code, so it's licensed under MIT instead, under the same terms as [`mcp/LICENSE`](../mcp/LICENSE).
+
 ## The sample document
 
 `samples/Ethereal.butterkit` is a ButterKit template, included so you can read a real document and test scripts against it. It is not covered by CC BY 4.0: copyright (c) 2026 Spitulski Ventures LLC, all rights reserved. You're welcome to open it and use it in ButterKit like any free template from [butterkit.app/templates](https://butterkit.app/templates?utm_source=github), but please don't redistribute it.

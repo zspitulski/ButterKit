@@ -123,7 +123,7 @@ This is ButterKit's open side: the source of the bridge your AI tool runs, a com
 | Folder | What it is | License |
 | --- | --- | --- |
 | [`mcp/`](mcp) | Source for `butterkit-mcp`, the small bridge your AI tool launches. Read exactly what runs on your Mac, or build it yourself. | MIT |
-| [`format/`](format) | How a `.butterkit` document is laid out, with a real sample document | CC BY 4.0 |
+| [`format/`](format) | How a `.butterkit` document is laid out, with a real sample document and a reader script | CC BY 4.0, script MIT |
 | [`examples/`](examples) | A fastlane lane, linked folder layouts and agent prompts | MIT |
 | [`CHANGELOG.md`](CHANGELOG.md) | Every release, mirrored from [butterkit.app/changelog](https://butterkit.app/changelog?utm_source=github) | |
 

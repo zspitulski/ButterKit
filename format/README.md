@@ -429,7 +429,7 @@ Other everyday changes:
 
 ## Reading a document with a script
 
-This Python script lists a document's languages and its base artboards in screenshot order, with pixel sizes and text. It uses only the standard library.
+This Python script lists a document's languages and its base artboards in screenshot order, with pixel sizes and text. It uses only the standard library, and it's ready to run as [`tools/list_boards.py`](tools/list_boards.py) (MIT licensed).
 
 ```python
 import json
@@ -462,7 +462,7 @@ for b in sorted(base, key=lambda b: (b.get("sizePresetID") or "custom", b.get("s
 Run against the Ethereal sample, it starts like this:
 
 ```text
-$ python3 list_boards.py samples/Ethereal.butterkit
+$ python3 tools/list_boards.py samples/Ethereal.butterkit
 Base language: en-US
 Localizations: none
 app_store_iphone #1 1290x2796 Introduction: Easy peasy / Meditation for the rest of us

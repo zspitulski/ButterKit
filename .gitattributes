@@ -1,0 +1,2 @@
+# GitHub skips examples/ folders in the language bar. These are real, runnable files, so count them.
+examples/** linguist-documentation=false
