@@ -52,4 +52,4 @@ For testing, three environment variables override the defaults:
 
 ## License
 
-MIT. See [LICENSE](LICENSE). The license covers this code, not the ButterKit name or logo.
+MIT, like the rest of this repo. See [LICENSE](../LICENSE).

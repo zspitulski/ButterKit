@@ -10,4 +10,4 @@ Ready-to-copy setups for getting screenshots into ButterKit and driving it from 
 
 Have a setup worth sharing? Open an issue with what you built and it may land here.
 
-The code in this folder is MIT licensed. See [LICENSE](LICENSE).
+Everything here is MIT licensed, like the rest of the repo. See [LICENSE](../LICENSE).

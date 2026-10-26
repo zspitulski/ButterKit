@@ -429,7 +429,7 @@ Other everyday changes:
 
 ## Reading a document with a script
 
-This Python script lists a document's languages and its base artboards in screenshot order, with pixel sizes and text. It uses only the standard library, and it's ready to run as [`tools/list_boards.py`](tools/list_boards.py) (MIT licensed).
+This Python script lists a document's languages and its base artboards in screenshot order, with pixel sizes and text. It uses only the standard library, and it's ready to run as [`tools/list_boards.py`](tools/list_boards.py).
 
 ```python
 import json
@@ -550,8 +550,8 @@ Its size works out to 1290 by 2796 pixels, the `app_store_iphone` preset, and bo
 
 Two things to keep in mind. The sample is indented to make it easier to read, while a file the app saves is compact. And it contains no localizations, callouts or device shadows, so those fields only appear in documents where you use them.
 
-The sample isn't covered by this guide's CC BY 4.0 license. See [LICENSE.md](LICENSE.md).
+The sample's artwork isn't part of this repo's MIT license. Open it and use it in ButterKit like any free template, but please don't redistribute it.
 
 ---
 
-This guide is licensed under [CC BY 4.0](LICENSE.md).
+This guide is MIT licensed, like the rest of this repo. See [LICENSE](../LICENSE).

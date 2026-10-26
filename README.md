@@ -39,6 +39,10 @@
 <br>
 
 <p align="center">
+  <img src="assets/app-window.png" alt="ButterKit's main window: the Ethereal template's iPhone screenshots on the canvas, with the Add Artboard panel showing the iPhone sizes App Store Connect requires">
+</p>
+
+<p align="center">
   <img src="assets/whats-new-3.0.png" alt="What's new in ButterKit 3.0: Header and Search Results artwork, iPhone Duo screenshots, one-click move to the new iOS sizes, and more">
 </p>
 
@@ -120,12 +124,12 @@ ButterKit ships with an MCP server, so any agent that speaks the [Model Context 
 
 This is ButterKit's open side: the source of the bridge your AI tool runs, a complete guide to the document format, ready-made automation, and every release and bug report, all in public.
 
-| Folder | What it is | License |
-| --- | --- | --- |
-| [`mcp/`](mcp) | Source for `butterkit-mcp`, the small bridge your AI tool launches. Read exactly what runs on your Mac, or build it yourself. | MIT |
-| [`format/`](format) | How a `.butterkit` document is laid out, with a real sample document and a reader script | CC BY 4.0, script MIT |
-| [`examples/`](examples) | A fastlane lane, linked folder layouts and agent prompts | MIT |
-| [`CHANGELOG.md`](CHANGELOG.md) | Every release, mirrored from [butterkit.app/changelog](https://butterkit.app/changelog?utm_source=github) | |
+| Folder | What it is |
+| --- | --- |
+| [`mcp/`](mcp) | Source for `butterkit-mcp`, the small bridge your AI tool launches. Read exactly what runs on your Mac, or build it yourself. |
+| [`format/`](format) | How a `.butterkit` document is laid out, with a real sample document and a reader script |
+| [`examples/`](examples) | A fastlane lane, linked folder layouts and agent prompts |
+| [`CHANGELOG.md`](CHANGELOG.md) | Every release, mirrored from [butterkit.app/changelog](https://butterkit.app/changelog?utm_source=github) |
 
 **Signed and sandboxed.** ButterKit runs in Apple's App Sandbox. The download from butterkit.app is signed with an Apple Developer ID and notarized by Apple, so macOS verifies it before it opens. The Mac App Store version is reviewed and signed by Apple.
 
@@ -209,5 +213,6 @@ I'm Zach Spitulski, and I build ButterKit out of my small garage in Los Angeles.
 <br>
 
 <p align="center">
-  <sub>ButterKit® is a registered trademark. The licenses here cover code and templates, not the ButterKit name or logo.</sub>
+  <sub>The code, docs and examples in this repo are <a href="LICENSE">MIT licensed</a>, so feel free to use them, change them and build on them.<br>
+  The ButterKit app itself lives elsewhere, and the ButterKit name, logo and artwork, including the sample template, aren't covered. ButterKit® is a registered trademark.</sub>
 </p>
