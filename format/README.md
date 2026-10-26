@@ -550,7 +550,7 @@ Its size works out to 1290 by 2796 pixels, the `app_store_iphone` preset, and bo
 
 Two things to keep in mind. The sample is indented to make it easier to read, while a file the app saves is compact. And it contains no localizations, callouts or device shadows, so those fields only appear in documents where you use them.
 
-The sample's artwork isn't part of this repo's MIT license. Open it and use it in ButterKit like any free template, but please don't redistribute it.
+Like everything here, the sample is MIT licensed, artwork included, so use it however you like.
 
 ---
 

@@ -214,5 +214,5 @@ I'm Zach Spitulski, and I build ButterKit out of my small garage in Los Angeles.
 
 <p align="center">
   <sub>The code, docs and examples in this repo are <a href="LICENSE">MIT licensed</a>, so feel free to use them, change them and build on them.<br>
-  The ButterKit app itself lives elsewhere, and the ButterKit name, logo and artwork, including the sample template, aren't covered. ButterKit® is a registered trademark.</sub>
+  That covers this repo only, not the ButterKit app itself or the ButterKit name and logo. ButterKit® is a registered trademark.</sub>
 </p>
