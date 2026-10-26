@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Private help, licenses and billing
-    url: mailto:feedback@butterkit.app
+    url: https://github.com/zspitulski/butterkit#bugs-and-ideas
     about: For anything that shouldn't be public, including your unreleased app.
   - name: Documentation
     url: https://butterkit.app/docs?utm_source=github

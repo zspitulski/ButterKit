@@ -139,7 +139,7 @@ This is ButterKit's public issue tracker.
 
 - **Found a bug?** [Open a bug report](../../issues/new?template=bug_report.yml). Include your ButterKit version (**ButterKit > About ButterKit**), your macOS version and the steps to reproduce. A sample `.butterkit` file helps most.
 - **Want something?** [Request a feature](../../issues/new?template=feature_request.yml), or add a thumbs up to an existing request. Reactions help decide what gets built next.
-- **Private matters** like licenses, billing or your unreleased app go to [feedback@butterkit.app](mailto:feedback@butterkit.app). Please keep screenshots of unreleased apps out of public issues.
+- **Private matters** like licenses, billing or your unreleased app go to [help@butterkit.app](mailto:help@butterkit.app). Please keep screenshots of unreleased apps out of public issues.
 
 ## What developers say
 

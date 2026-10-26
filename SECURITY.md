@@ -5,7 +5,7 @@ If you find a security problem in ButterKit, the `butterkit-mcp` bridge or butte
 ## How to report
 
 - **On GitHub:** open the **Security** tab of this repository and choose **Report a vulnerability**. Only the maintainer can see the report.
-- **By email:** write to [feedback@butterkit.app](mailto:feedback@butterkit.app) with "Security" in the subject.
+- **By email, if you can't use GitHub:** write to [help@butterkit.app](mailto:help@butterkit.app) with "Security" in the subject.
 
 Please include what you found, the ButterKit version (**ButterKit > About ButterKit**), your macOS version, and the steps to reproduce it. Please don't open a public issue for security problems.
 
