@@ -5,7 +5,6 @@
 <h1 align="center">ButterKit</h1>
 
 <p align="center">
-  <b>You built it. ButterKit sells it.</b><br>
   The native Mac app for App Store screenshots. Design once, translate into all 50 App Store languages, and publish straight to App Store Connect.
 </p>
 
