@@ -45,6 +45,20 @@
   <img src="assets/whats-new-3.0.png" alt="What's new in ButterKit 3.0: Header and Search Results artwork, iPhone Duo screenshots, one-click move to the new iOS sizes, and more">
 </p>
 
+## Free templates
+
+Start from a finished design. Every template is free, works in the free version of ButterKit, and adapts to every size and language.
+
+| Meadow Meditation | Ascent | Ethereal |
+| :---: | :---: | :---: |
+| <a href="https://butterkit.app/templates/meadow-meditation/?utm_source=github"><img src="assets/templates/meadow-meditation.png" width="140" alt="Meadow Meditation template"></a> | <a href="https://butterkit.app/templates/ascent/?utm_source=github"><img src="assets/templates/ascent.png" width="140" alt="Ascent template"></a> | <a href="https://butterkit.app/templates/ethereal/?utm_source=github"><img src="assets/templates/ethereal.png" width="140" alt="Ethereal template"></a> |
+| [Get template](https://butterkit.app/templates/meadow-meditation/?utm_source=github) | [Get template](https://butterkit.app/templates/ascent/?utm_source=github) | [Get template](https://butterkit.app/templates/ethereal/?utm_source=github) |
+| **Sahara** | **Minimalist Dark** | **Minimalist Light** |
+| <a href="https://butterkit.app/templates/sahara/?utm_source=github"><img src="assets/templates/sahara.png" width="140" alt="Sahara template"></a> | <a href="https://butterkit.app/templates/minimalist-dark/?utm_source=github"><img src="assets/templates/minimalist-dark.png" width="140" alt="Minimalist Dark template"></a> | <a href="https://butterkit.app/templates/minimalist-light/?utm_source=github"><img src="assets/templates/minimalist-light.png" width="140" alt="Minimalist Light template"></a> |
+| [Get template](https://butterkit.app/templates/sahara/?utm_source=github) | [Get template](https://butterkit.app/templates/minimalist-dark/?utm_source=github) | [Get template](https://butterkit.app/templates/minimalist-light/?utm_source=github) |
+
+Browse every template at [butterkit.app/templates](https://butterkit.app/templates?utm_source=github).
+
 ## Why ButterKit
 
 **10 screenshots × 50 languages = 500 designs.** Then you ship an update and start over.
@@ -76,17 +90,6 @@ With ButterKit you design those 10 once. It translates them into every App Store
 ## One-time purchase available
 
 Pro is available as a one-time Lifetime license that doesn't expire, or as a Supporter plan. It removes the export watermark and adds App Store Connect publishing. The free version includes the design tools and templates, with watermarked exports. Education, veteran and first responder discounts are 50% off. [See pricing](https://butterkit.app/pricing?utm_source=github).
-
-## Free templates
-
-Start from a finished design. Every template is free, works in the free version of ButterKit, and adapts to every size and language.
-
-| Ascent | Ethereal | Sahara | Minimalist Dark | Minimalist Light |
-| :---: | :---: | :---: | :---: | :---: |
-| <a href="https://butterkit.app/templates/ascent/?utm_source=github"><img src="assets/templates/ascent.png" width="140" alt="Ascent template"></a> | <a href="https://butterkit.app/templates/ethereal/?utm_source=github"><img src="assets/templates/ethereal.png" width="140" alt="Ethereal template"></a> | <a href="https://butterkit.app/templates/sahara/?utm_source=github"><img src="assets/templates/sahara.png" width="140" alt="Sahara template"></a> | <a href="https://butterkit.app/templates/minimalist-dark/?utm_source=github"><img src="assets/templates/minimalist-dark.png" width="140" alt="Minimalist Dark template"></a> | <a href="https://butterkit.app/templates/minimalist-light/?utm_source=github"><img src="assets/templates/minimalist-light.png" width="140" alt="Minimalist Light template"></a> |
-| [Get template](https://butterkit.app/templates/ascent/?utm_source=github) | [Get template](https://butterkit.app/templates/ethereal/?utm_source=github) | [Get template](https://butterkit.app/templates/sahara/?utm_source=github) | [Get template](https://butterkit.app/templates/minimalist-dark/?utm_source=github) | [Get template](https://butterkit.app/templates/minimalist-light/?utm_source=github) |
-
-Browse every template at [butterkit.app/templates](https://butterkit.app/templates?utm_source=github).
 
 ## Connect your AI agent
 
