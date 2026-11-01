@@ -2,6 +2,41 @@
 
 Every ButterKit release, newest first. This file mirrors [butterkit.app/changelog](https://butterkit.app/changelog?utm_source=github), where each release has full notes, images and video.
 
+## 3.2.30
+
+**Multiple App Store Connect profiles, Markdown paste, and fixes**  
+<sub>October 30, 2026</sub>
+
+- Adds support for multiple App Store Connect profiles; quickly change between them in Settings (thanks to zlib, Eran J and others for suggesting this)
+- Fixes issue where an artboard could be deleted via right click menu and undo didn't work
+- Improves right-click menus with icons and keyboard shortcuts
+
+**Also included in 3.2.25**
+
+- Paste Markdown into the metadata editor. What's New, Description and Promotional Text turn it into plain text App Store Connect accepts, with bullets and links kept readable. Handy if you draft release notes in Markdown.
+- Pick the Capture Tool's device from the menu at the top of the panel. It no longer jumps to a different simulator when you click back into Device Hub. Thanks to Markus F for helping track this down!
+- New MCP tool: `design_rename_artboard` lets AI agents rename your artboards, keeping names safe for export filenames.
+- AI agents can now span a panoramic background across a row.
+- New Meadow Meditation template.
+- Cleaner canvas. Artboards get a crisp hairline edge instead of a soft shadow, and the group name sits as a fixed title.
+- Fixes a bug where duplicating or resizing a Header or Search Results artboard created a second, identical header in the sidebar, and the App Store Connect upload skipped it. Copies now become regular artboards, so each project keeps one Header and one Search Results. Thanks Pawel K!
+- Fixes a bug where saving an untitled document over MCP opened a Save dialog and stalled the agent. The agent now gets a clear error instead. Thanks Eran J!
+- Fixes landscape screenshots showing sideways in the Select Callout Region sheet.
+- Fixes canvas text shifting when you double-click to edit it.
+- Fixes text sizes in the inspector not matching what you see across the iPhone Duo row.
+- Better contrast in light mode for the selected sidebar row and the device pose tiles, with more on the way.
+
+[All release notes](https://butterkit.app/changelog?utm_source=github)
+
+## 3.2
+
+**Redesigned Capture Tool, improved MCP support, and macOS 27.2 support**  
+<sub>October 27, 2026</sub>
+
+A redesigned Capture Tool, one-paste AI agent setup, and Delete Group, plus fixes for Codex, iPhone Duo captures, and macOS 27.2.
+
+[Full release notes](https://butterkit.app/changelog/v3-2-agent-setup-capture-tool/?utm_source=github)
+
 ## 3.1.01
 
 **Apply to All Localizations, starter text on blank artboards, and fixes**  
