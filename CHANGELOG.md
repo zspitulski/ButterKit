@@ -2,6 +2,28 @@
 
 Every ButterKit release, newest first. This file mirrors [butterkit.app/changelog](https://butterkit.app/changelog?utm_source=github), where each release has full notes, images and video.
 
+## 3.3.03
+
+**App Preview upload fix and iPhone Duo screenshot fix**  
+<sub>November 9, 2026</sub>
+
+- Fixes issue where App Store Connect uploads could fail with an HTTP 409 error when an App Preview video is already in place ([GitHub Issue #14](https://github.com/zspitulski/ButterKit/issues/14))
+- Fixes bug that could cause a screenshot to appear upside down when captured from Device Hub into an iPhone Duo ([GitHub Issue #13](https://github.com/zspitulski/ButterKit/issues/13))
+
+[All release notes](https://butterkit.app/changelog?utm_source=github)
+
+## 3.3.01
+
+**Shapes on your artboards, a crash fix, and lighter Pixel 10 Pro 3D models**  
+<sub>November 6, 2026</sub>
+
+- **Shapes.** Open the new Shapes tab in the Inspector to add rectangles and ellipses to your artboards, then drag the handles on the canvas to size them. Fill, border, corner radius, and opacity are all yours to set.
+- **Deleting images no longer crashes the app.** Fixes issue that could cause the app to crash when deleting images from an artboard using the keyboard (thanks to folks on Reddit and Discord for help on this)
+- **Better performance with Pixel 10 Pro 3D devices.** A simpler 3D model helps projects that use several Pixel 10 Pro 3D devices.
+- Improved license management UI
+
+[Full release notes](https://butterkit.app/changelog/v3-3-01-shapes/?utm_source=github)
+
 ## 3.2.30
 
 **Multiple App Store Connect profiles, Markdown paste, and fixes**  
