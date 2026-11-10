@@ -2,7 +2,7 @@
 
 The source of `butterkit-mcp`, the small program your AI tool launches when it talks to ButterKit. It ships inside the app at `ButterKit.app/Contents/MacOS/butterkit-mcp`, and these are the same Swift files it's built from.
 
-It's published so you can read exactly what runs on your Mac when you connect an agent. You don't need to build it to use ButterKit: point your MCP config at the copy inside the app (setup is in the [main README](../README.md#connect-your-ai-agent)).
+It's published so you can read exactly what runs on your Mac when you connect an agent. You don't need to build it to use ButterKit: point your MCP config at the copy inside the app (setup is in the [main README](../../README.md#connect-your-ai-agent)).
 
 ## What it does
 
@@ -52,4 +52,4 @@ For testing, three environment variables override the defaults:
 
 ## License
 
-MIT, like the rest of this repo. See [LICENSE](../LICENSE).
+MIT, like the rest of this repo. See [LICENSE](../../LICENSE).

@@ -128,7 +128,7 @@ This repository holds the MCP bridge source, a guide to the document format, aut
 
 | Folder | What it is |
 | --- | --- |
-| [`mcp/`](mcp) | Source for `butterkit-mcp`, the small bridge your AI tool launches. Read exactly what runs on your Mac, or build it yourself. |
+| [`source/mcp/`](source/mcp) | Source for `butterkit-mcp`, the small bridge your AI tool launches. Read exactly what runs on your Mac, or build it yourself. |
 | [`format/`](format) | How a `.butterkit` document is laid out, with a real sample document and a reader script |
 | [`examples/`](examples) | A fastlane lane, linked folder layouts and agent prompts |
 | [`CHANGELOG.md`](CHANGELOG.md) | Every release, mirrored from [butterkit.app/changelog](https://butterkit.app/changelog?utm_source=github) |
