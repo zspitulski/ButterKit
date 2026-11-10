@@ -59,6 +59,17 @@ Start from a finished design. Every template is free, works in the free version 
 
 Browse every template at [butterkit.app/templates](https://butterkit.app/templates?utm_source=github).
 
+## Source code
+
+<p align="center">
+  <img src="source/foil-card/assets/foil-card.gif" width="640" alt="ButterKit's Settings window: the Free license card tilts toward the pointer, a license key is entered, and the Pro card sweeps in with a year stamp">
+</p>
+
+- **[Foil card](source/foil-card).** The holographic license card from ButterKit's Settings, as a SwiftUI package: a Metal foil shader that tilts toward the pointer, the card layout, the unlock sweep and year stamps. The foil shaders are adapted from [Sticker](https://github.com/bpisano/Sticker) by Benjamin Pisano.
+- **[butterkit-mcp](source/mcp).** The bridge your AI tool launches to talk to ButterKit. Read exactly what runs on your Mac, or build it yourself.
+
+Both are MIT licensed, like the rest of this repo.
+
 ## Why ButterKit
 
 **10 screenshots × 50 languages = 500 designs.** Then you ship an update and start over.
@@ -124,11 +135,11 @@ ButterKit ships with an MCP server, so any agent that speaks the [Model Context 
 
 ## What's in this repository
 
-This repository holds the MCP bridge source, a guide to the document format, automation examples, the changelog and the public issue tracker.
+This repository holds source code, a guide to the document format, automation examples, the changelog and the public issue tracker.
 
 | Folder | What it is |
 | --- | --- |
-| [`source/mcp/`](source/mcp) | Source for `butterkit-mcp`, the small bridge your AI tool launches. Read exactly what runs on your Mac, or build it yourself. |
+| [`source/`](source) | Code you can build on its own: [`butterkit-mcp`](source/mcp), the small bridge your AI tool launches, and the [foil card](source/foil-card) from ButterKit's Settings |
 | [`format/`](format) | How a `.butterkit` document is laid out, with a real sample document and a reader script |
 | [`examples/`](examples) | A fastlane lane, linked folder layouts and agent prompts |
 | [`CHANGELOG.md`](CHANGELOG.md) | Every release, mirrored from [butterkit.app/changelog](https://butterkit.app/changelog?utm_source=github) |
